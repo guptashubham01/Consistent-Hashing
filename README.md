@@ -1,2 +1,2 @@
-# cmpe273-lab3
-Consistent hashing to implement a simple RESTful key-value cache data store
+# Consistent Hashing
+Implementation of a simple RESTful key-value cache data store
